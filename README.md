@@ -6,7 +6,7 @@
 
 ## 🚀 **About Me**
 
-Tôi là **Nguyễn Thế Tuấn Minh**, hoạt động trong lĩnh vực kỹ thuật dưới brand **Gen Meca**. Hướng đi của tôi tập trung vào việc xây dựng các hệ thống robot đa ngành, kết hợp cơ khí – vật liệu – điều khiển – lập trình – mô phỏng – soft robotics theo chuẩn PFIEV–INSA.
+Tôi là **Nguyễn Thế Tuấn Minh**, hoạt động trong lĩnh vực kỹ thuật dưới brand **Gen Meca**. Hướng đi của tôi tập trung vào việc xây dựng các hệ thống robot đa ngành, kết hợp cơ khí – vật liệu – điều khiển – lập trình – mô phỏng – soft robotics theo chuẩn PFIEV–MIT.
 
 Tôi theo đuổi triết lý:
 
