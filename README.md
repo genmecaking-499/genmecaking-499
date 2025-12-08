@@ -93,7 +93,7 @@ Cấu trúc để phát triển các dự án robot ở mức hệ thống:
 
 ## 🌐 **Connect**
 
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **Email:** [gen.mecaking@gmail.com](gen.mecaking@gmail.com)
 * **Portfolio:** (Notion – Gen Meca Robotics)
 * **GitHub:** github.com/genmecaking-499
 
