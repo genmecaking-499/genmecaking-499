@@ -13,14 +13,15 @@
 
 <br>
 
-<!-- Badges -->
-<img src="https://img.shields.io/badge/Gen%20Meca-Robotics%20Engineering-1F6FEB?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Status-In_Progress-F9D72C?style=for-the-badge&labelColor=0D1117" />
+<!-- Badges — GitHub Dark Theme Premium -->
+<img src="https://img.shields.io/badge/Gen%20Meca-Robotics%20Engineering-1F6FEB?style=for-the-badge&labelColor=0D1117&logo=data:image/svg+xml;base64," />
+<img src="https://img.shields.io/badge/Status-In_Progress-1F6FEB?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/github/last-commit/genmecaking-499/genmecaking-499?style=for-the-badge&color=8B949E&labelColor=0D1117" />
 
 </div>
 
 ---
+
 
 
 ## 🚀 **About Me**
