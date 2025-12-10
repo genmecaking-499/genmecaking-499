@@ -1,23 +1,27 @@
+<!-- ====================================================================== -->
+<!--                        GEN MECA — GITHUB PROFILE                       -->
+<!-- ====================================================================== -->
+
 <div align="center">
 
-# 🚀 **MIT Learning Path – Gen Meca**
-### *A Professional, MIT-Aligned Engineering Roadmap*
+# 👋 **Nguyen The Tuan Minh**
+### **aka. Gen Meca — Robotics & Mechatronics Engineering Track**
 
-<!-- Banner -->
-<img src="https://img.shields.io/badge/Gen%20Meca-MIT%20Learning%20Path-1F6FEB?style=for-the-badge&labelColor=161B22&color=1F6FEB" />
+<br>
 
-<br><br>
+⭐ **Anthropomorphic Robotics • Materials • Control • CAD • PFIEV–MIT Style Engineering**
 
-<!-- Badges Section -->
-<div align="center">
+<br>
 
-<img src="https://img.shields.io/badge/Status-In_Progress-1F6FEB?style=for-the-badge&labelColor=161B22&color=1F6FEB" />
-<img src="https://img.shields.io/badge/Updated-2025-C9D1D9?style=for-the-badge&labelColor=161B22&color=C9D1D9" />
-<img src="https://img.shields.io/github/last-commit/genmecaking-499/MIT-Learning-Path?style=for-the-badge&labelColor=161B22&color=C9D1D9" />
+<!-- Badges — GitHub Dark Theme Premium -->
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-2025-green?style=for-the-badge) 
+![Last Commit](https://img.shields.io/github/last-commit/genmecaking-499/MIT-Learning-Path/main?style=for-the-badge)
 
 </div>
 
 ---
+
 
 ### 🔧 **Mechatronics | Robotics | Control | Materials | Programming**
 A structured and research-oriented self-study program following MIT OpenCourseWare.
