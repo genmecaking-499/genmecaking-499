@@ -13,7 +13,7 @@
 
 # 🚀 **About Me**
 
-I’m **Nguyễn Thế Tuấn Minh**, known as **Gen Meca**, a robotics-driven engineering student building a long-term multidisciplinary ecosystem for **humanoid robotics**.
+I’m **Nguyen The Tuan Minh**, known as **Gen Meca**, a robotics-driven engineering student building a long-term multidisciplinary ecosystem for **humanoid robotics**.
 
 My direction integrates six core technical pillars:
 
