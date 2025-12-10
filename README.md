@@ -4,24 +4,22 @@
 
 <div align="center">
 
-# 👋 **Nguyen The Tuan Minh**
-### **aka. Gen Meca — Robotics & Mechatronics Engineering Track**
+# 🚀 **MIT Learning Path – Gen Meca**
+### *A Professional, MIT-Aligned Engineering Roadmap*
 
-<br>
+<!-- Banner -->
+![Banner](https://img.shields.io/badge/Gen%20Meca-MIT%20Learning%20Path-blue?style=for-the-badge)
 
-⭐ **Anthropomorphic Robotics • Materials • Control • CAD • PFIEV–MIT Style Engineering**
+<div align="center">
 
-<br>
-
-<!-- Badges — GitHub Dark Theme Premium -->
+<!-- Badges (giữ nguyên màu như file bạn gửi) -->
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-2025-green?style=for-the-badge) 
+![Last Update](https://img.shields.io/badge/Updated-2025-green?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/genmecaking-499/MIT-Learning-Path/main?style=for-the-badge)
 
 </div>
 
 ---
-
 
 ### 🔧 **Mechatronics | Robotics | Control | Materials | Programming**
 A structured and research-oriented self-study program following MIT OpenCourseWare.
@@ -29,6 +27,7 @@ A structured and research-oriented self-study program following MIT OpenCourseWa
 </div>
 
 ---
+
 
 
 
