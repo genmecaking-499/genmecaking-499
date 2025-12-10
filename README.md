@@ -107,19 +107,19 @@ This direction is part of a larger plan to design a fully modular humanoid syste
 
 ---
 
-# 🗺️ **Learning & Research Roadmap (2025–2027)**
+# 🗺️ **Learning & Research Roadmap (2026–2028)**
 
-## **2025**
+## **2026**
 - Complete foundational MIT OCW courses (4 domains)  
 - Build PFIEV–MIT Notion Portfolio  
 - Develop **Humanoid Arm v1**  
 
-## **2026**
+## **2027**
 - Advanced MIT coursework + FEM & multibody simulations  
 - **Humanoid Arm v2** with refined tendon routing & materials  
 - Begin sensor integration and force modeling  
 
-## **2027**
+## **2028**
 - Release **Gen Meca Robotics Architecture** (open-source)  
 - **Humanoid Arm v3** with tactile sensing + soft robotics optimization  
 - Apply for international robotics/materials/biomechanics labs  
