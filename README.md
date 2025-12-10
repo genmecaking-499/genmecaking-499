@@ -1,153 +1,137 @@
 <div align="center">
 
-# 👋 **Nguyễn Thế Tuấn Minh**
-### **aka. Gen Meca — Robotics & Mechatronics Engineer**
+<!-- Banner -->
+![Banner](REPLACE_BANNER_URL)
 
-![Status](https://img.shields.io/badge/Portfolio-In_Progress-yellow?style=for-the-badge)
+# 👋 Nguyen The Tuan Minh
+### aka. **Gen Meca** — Robotics & Mechatronics Engineer
+
+<div>
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
 ![Last Update](https://img.shields.io/badge/Updated-2025-green?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/genmecaking-499/genmecaking-499/main?style=for-the-badge)
+</div>
+
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#technical-identity">Identity</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#roadmap">Roadmap</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#timeline">Timeline</a> •
+  <a href="#connect">Connect</a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 **About Me**
+# 🔷 About
+I’m **Nguyen The Tuan Minh (Gen Meca)** — a mechatronics engineering student focused on **scalable humanoid robotics systems**.  
+My work unifies **Mechanics, Materials, CAD, Programming, Control, and Soft Robotics** in a PFIEV–MIT inspired research framework.
 
-Tôi là **Nguyễn Thế Tuấn Minh**, hoạt động trong lĩnh vực kỹ thuật dưới brand **Gen Meca**.  
-Hướng đi của tôi tập trung vào phát triển các hệ thống robot đa ngành, kết hợp:
-
-- **Mechanics**
-- **Materials**
-- **CAD**
-- **Programming**
-- **Control Systems**
-- **Soft Robotics**
-
-Theo chuẩn **PFIEV–INSA** và khung tự học **MIT OCW**.
-
-Tôi theo đuổi triết lý:
-
-> **"Kỹ thuật phải tinh gọn, chính xác và có khả năng mở rộng lâu dài."**
-
-Hiện tôi đang xây dựng một framework phát triển robot dựa trên **12 mảng kỹ thuật lõi**, hướng tới thiết kế những hệ thống humanoid có thể mở rộng và nâng cấp theo nhiều thế hệ.
+> *Engineering should be precise, lightweight, and generationally scalable.*
 
 ---
 
-## 🧭 **Technical Identity**
+# 🧭 Technical Identity
+**Primary focus (6 core domains)**  
+- **Mechanics** — statics, dynamics, mechanisms  
+- **Materials Science** — polymers, composites, soft matter  
+- **CAD & Digital Design** — SolidWorks, Fusion 360, Onshape  
+- **Programming** — Python, C/C++, embedded systems, ROS  
+- **Control Systems** — modeling, identification, simulation  
+- **Soft Robotics** — tendon-driven, compliant actuation, tactile systems
 
-### 🌟 **Primary Focus — 6 Core Domains**
-* **Mechanics** — Kết cấu, động học, động lực học.  
-* **Materials Science** — Polymers, composites, smart materials.  
-* **CAD & Digital Design** — SolidWorks, Fusion 360, Onshape.  
-* **Programming** — C/C++, Python, ROS.  
-* **Control Systems** — Modeling, simulation, embedded control.  
-* **Soft Robotics** — Tendon-driven systems, elastomers, biomimetic design.  
-
-### 🧩 **Long-term Architecture — 12 Technical Domains**
-
-Đây là framework tổng hợp để phát triển robot ở mức hệ thống:
-
-1. Mechanics  
-2. Materials Science  
-3. CAD  
-4. Programming  
-5. Control Systems  
-6. Robotics  
-7. Biology  
-8. Biomechanics  
-9. Chemistry  
-10. Aerospace Fundamentals  
-11. Textile Engineering  
-12. Aerodynamics  
+**Long-term system architecture (12 domains)**  
+Mechanics • Materials • CAD • Programming • Control • Robotics • Biology • Biomechanics • Chemistry • Aerospace • Textile Eng • Aerodynamics
 
 ---
 
-## 🤖 **Humanoid Robotics Direction**
+# 🔧 Showcase — Key Projects
 
-Hướng chính tôi theo đuổi đến 2030:
+> Click repo names to view details (replace links with your repo URLs).
 
-- Thiết kế **tay robot mô phỏng tay người** (26 DOF)  
-- Cơ cấu **gân – pulley – tendon routing**  
-- Vật liệu **elastomer mềm, silicone Shore 20–40A**  
-- Khung xương **hollow + lattice** để giảm trọng lượng  
-- Tích hợp **tactile feedback** và cảm biến lực  
-- Motor đặt **ở cẳng tay** để giảm mô-men quán tính  
-- Phát triển phiên bản **v1 → v2 → v3** theo một kiến trúc thống nhất
+| Project | Short summary | Status |
+|---|---:|:---:|
+| [MIT Learning Path](https://github.com/genmecaking-499/MIT-Learning-Path) | Structured MIT OCW study system for Mechanics / Materials / Programming / Control. Notes, assignments, progress tracking. | 🔄 In progress |
+| Humanoid Robot Arm v1 | Tendon-driven 26 DOF hand/arm design. Hollow lattice bones, motor-in-forearm architecture, tactile layers. | ⚙️ R&D |
+| CAD Learning Hub | Design rules, sketching principles, reusable component library for robot subsystems. | 📦 Building |
+| Soft Robotics Trials | Elastomer testing, tendon routing experiments, low-friction transmissions. | 🧪 Experiments |
 
----
-
-## 🔧 **Highlighted Projects**
-
-### 🤖 **1. Humanoid Robot Arm v1**
-- Cấu trúc gân kéo – phục hồi bằng lò xo/elastomer  
-- Khung xương rỗng dạng lattice tối ưu khối lượng  
-- Cơ chế chống ma sát trong tendon routing  
-- 26 DOF mô phỏng chức năng tay người  
-
-### 🛠️ **2. CAD Learning Hub**
-- Tổng hợp workflow thiết kế  
-- Nguyên tắc sketching chuẩn công nghiệp  
-- Tạo thư viện chi tiết cho các dự án robot  
-
-### 📘 **3. MIT OCW Technical Notes**
-- Hệ thống hóa 4 mảng chính:  
-  **Mechanics – Materials – Programming – Control**  
-- Bản ghi chú tối ưu cho người tự học định hướng nghiên cứu  
-- Lưu trữ tại repo: *MIT-Learning-Path*  
-
-### 🧪 **4. Soft Robotics Trials**
-- Thử nghiệm vật liệu mềm, lực kéo và truyền lực  
-- Phát triển khớp mềm và cảm biến tiếp xúc  
-- Kiểm tra ổn định tải trọng và độ bền gân kéo  
+> Want a visual project gallery? Add PNG screenshots to each repo and I’ll place them as a grid here.
 
 ---
 
-## 🗺️ **Learning & Research Roadmap (2025–2027)**
+# 🗺️ Roadmap (2025 → 2027)
+**2025**  
+- Complete MIT OCW foundation across 4 core domains.  
+- Build Notion Portfolio: *Gen Meca Robotics Framework*.  
+- Deliver Humanoid Arm v1 (mechanical design + simulation).
 
-### **2025**
-- Hoàn thiện foundation MIT OCW của 4 mảng  
-- Xây dựng Notion Portfolio PFIEV–MIT  
-- Thiết kế Humanoid Arm v1  
+**2026**  
+- Advanced courses, FEA & multibody simulation.  
+- Humanoid Arm v2: multi-material joints, sensor integration.  
+- Publish design notes & CAD demos.
 
-### **2026**
-- Advanced MIT courses (4 domains)  
-- Humanoid Arm v2 với hệ gân – pulley chính xác hơn  
-- Bắt đầu mô phỏng FEM + Multibody Dynamics  
-
-### **2027**
-- Open-source framework “Gen Meca Robotics Architecture”  
-- Humanoid Arm v3 (cảm biến, soft robotics, control tuning)  
-- Xin vào lab nghiên cứu quốc tế về robotics/materials/biomechanics  
-
----
-
-## 🧰 **Tools & Technical Stack**
-
-### **Programming**
-- C, C++, Python, MATLAB  
-- NumPy, OpenCV, TensorFlow  
-
-### **Robotics**
-- ROS, Gazebo, RViz  
-- Kinematics, tendon-driven modeling  
-
-### **CAD & Simulation**
-- SolidWorks  
-- Fusion 360  
-- Onshape  
-- MATLAB/Simulink  
-- Python modeling + visualization  
+**2027**  
+- Framework release: Gen Meca Robotics Architecture (open-source).  
+- Humanoid Arm v3: prototype testing with tactile feedback.  
+- Apply to international research labs.
 
 ---
 
-## 🌐 **Connect**
+# 🧰 Skills & Tools
 
-- **Email:** gen.mecaking@gmail.com  
-- **GitHub:** https://github.com/genmecaking-499  
-- **Portfolio (Notion):** Gen Meca Robotics Framework *(coming soon)*  
+**Programming & Simulation**  
+`Python` • `C/C++` • `MATLAB` • NumPy • Simulink
+
+**Robotics & Vision**  
+`ROS` • `Gazebo` • `OpenCV` • `TensorFlow`
+
+**CAD & FE**  
+`SolidWorks` • `Fusion 360` • `Onshape` • `FEA (basic)`
+
+**Hardware & Embedded**  
+Microcontrollers • Motor control • Sensors • Signal conditioning
 
 ---
 
-## 🎯 **Vision**
+# 🧭 Research Signals & Badges
+<div>
+![MIT OCW](https://img.shields.io/badge/MIT-OpenCourseWare-red?style=flat-square&logo=mit)
+![PFIEV](https://img.shields.io/badge/PFIEV-INSA-blue?style=flat-square)
+![Robotics](https://img.shields.io/badge/Domain-Robotics-lightgrey?style=flat-square)
+</div>
 
-> "Xây dựng nền tảng robot mô-đun có thể mở rộng, tối ưu hoá từ vật liệu đến điều khiển — tạo ra những hệ thống đủ độ tin cậy cho nghiên cứu và ứng dụng thực tế."
+---
+
+# 📈 Progress Overview
+**Course progress (selected)**  
+- Mechanics: ░░░░░░░░░ 20%  
+- Materials: ░░░░░░░░░ 15%  
+- Programming: ░░░░░░░░░ 30%  
+- Control: ░░░░░░░░░ 10%
+
+*(I can convert these into dynamic progress bars using GitHub Actions if you want.)*
+
+---
+
+# 🕒 Timeline (High-level)
+- **2024–2025**: Foundations (MIT OCW notes, basic CAD, initial experiments)  
+- **2025**: Arm v1 design, Notion portfolio, coursework completion  
+- **2026**: Advanced simulation, sensor integration, prototype v2  
+- **2027**: Public framework release, lab applications
+
+---
+
+# 📨 Contact & Collaboration
+<div align="left">
+
+**Email:** [gen.mecaking@gmail.com](mailto:gen.mecaking@gmail.com)  
+**GitHub:** https://github.com/genmecaking-499  
+**Portfolio (Notion):** REPLACE_PORTFOLIO_LINK
+
+**Open for:** Research internships • Collaboration on humanoid subsystems • CAD/FE consulting for student projects
+
+</div>
