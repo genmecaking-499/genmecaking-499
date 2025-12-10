@@ -22,20 +22,23 @@
 
 ## 🚀 **About Me**
 
-I am **Nguyen The Tuan Minh**, known as **Gen Meca**, focused on building scalable robotic systems through a multi-domain engineering approach combining:
+I am **Nguyen The Tuan Minh** — and in all my engineering work, **I go by the name _Gen Meca_**.
 
-- **Mechanics**
-- **Materials Science**
-- **CAD & Digital Design**
-- **Programming**
-- **Control Systems**
+I focus on building scalable robotic systems through a multi-domain engineering approach that integrates:
+
+- **Mechanics**  
+- **Materials Science**  
+- **CAD & Digital Design**  
+- **Programming**  
+- **Control Systems**  
 - **Soft Robotics**
 
-Guided by a PFIEV–INSA mindset and a structured MIT-style learning framework.
+My direction follows a PFIEV–INSA mindset combined with a structured MIT-style learning methodology.
 
 > **"Engineering must be elegant, precise, and scalable for the next generation of robotics."**
 
-I am currently developing a unified research framework built on **12 core technical domains**, enabling long-term humanoid and tendon-driven robotics development.
+I am currently developing a unified research framework built on **12 core technical domains**, forming the foundation for long-term work in humanoid robotics and tendon-driven mechanisms.
+
 
 ---
 
