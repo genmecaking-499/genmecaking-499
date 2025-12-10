@@ -6,17 +6,15 @@
 
 # 👋 **Nguyen The Tuan Minh**
 ### **aka. Gen Meca — Robotics & Mechatronics Engineering Track**
-
-
-
-
-⭐ *Anthropomorphic Robotics • Materials • Control • CAD • PFIEV–MIT Style Engineering*
-
 <img src="https://img.shields.io/badge/Gen%20Meca-Robotics%20Engineering-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" />
 <img src="https://img.shields.io/github/last-commit/genmecaking-499/genmecaking-499?style=for-the-badge" />
 
 <br><br>
+
+⭐ *Anthropomorphic Robotics • Materials • Control • CAD • PFIEV–MIT Style Engineering*
+
+
 
 </div>
 
