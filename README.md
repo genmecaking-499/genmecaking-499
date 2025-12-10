@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 **Nguyễn Thế Tuấn Minh**
+# 👋 **Nguyen The Tuan Minh**
 ### **aka. Gen Meca — Robotics & Mechatronics Engineering Track**
 
 ![Status](https://img.shields.io/badge/Portfolio-In_Progress-yellow?style=for-the-badge)
