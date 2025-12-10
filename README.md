@@ -1,21 +1,20 @@
 <!-- ====================================================================== -->
-<!--                        GEN MECA — GITHUB PROFILE                       -->
+<!--                           GEN MECA — GITHUB PROFILE                    -->
 <!-- ====================================================================== -->
 
 <div align="center">
 
-# 🚀 **MIT Learning Path – Gen Meca**
-### *A Professional, MIT-Aligned Engineering Roadmap*
+# 👋 **Nguyen The Tuan Minh**
+### **aka. Gen Meca — Robotics & Mechatronics Engineering Track**
 
-<!-- Banner -->
-![Banner](https://img.shields.io/badge/Gen%20Meca-MIT%20Learning%20Path-blue?style=for-the-badge)
+<br>
 
-<div align="center">
+⭐ *Anthropomorphic Robotics • Materials • Control • CAD • PFIEV–MIT Style Engineering*
 
-<!-- Badges (giữ nguyên màu như file bạn gửi) -->
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-2025-green?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/genmecaking-499/MIT-Learning-Path/main?style=for-the-badge)
+<!-- Badges (same colors as MIT Learning Path) -->
+![Gen Meca](https://img.shields.io/badge/Gen%20Meca-Robotics%20Engineering-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/genmecaking-499/genmecaking-499?style=for-the-badge)
 
 </div>
 
