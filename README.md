@@ -1,3 +1,7 @@
+<!-- ====================================================================== -->
+<!--                           GEN MECA — GITHUB PROFILE                    -->
+<!-- ====================================================================== -->
+
 <div align="center">
 
 # 👋 **Nguyen The Tuan Minh**
@@ -7,6 +11,7 @@
 
 <br>
 
+<!-- Badges -->
 ![Gen Meca](https://img.shields.io/badge/Gen%20Meca-Robotics%20Engineering-1F6FEB?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In_Progress-238636?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/genmecaking-499/genmecaking-499?color=1F6FEB&style=for-the-badge)
@@ -23,38 +28,44 @@ A clean philosophy guiding every project I build.
 
 ## 🚀 **About Me**
 
-I am **Nguyen The Tuan Minh** — and in all technical and engineering work, I operate under the identity **_Gen Meca_**, representing a long-term pursuit in mechanical design, materials engineering, control theory, computational modeling, and anthropomorphic robotics.
+I am **Nguyen The Tuan Minh** — and in all technical and engineering work,  
+I operate under the identity **_Gen Meca_**, representing a long-term pursuit in:
 
-I follow a PFIEV–INSA mindset blended with a structured MIT-style roadmap to develop **multi-generation humanoid robotics**.
+**mechanical design, materials engineering, control theory, computational modeling, and anthropomorphic robotics.**
 
-I am building an integrated research framework based on **12 technical domains**, forming the backbone for scalable robotic development.
+I follow a PFIEV–INSA mindset blended with a structured, MIT-style roadmap to develop **multi-generation humanoid robotics**.
+
+I’m currently constructing an integrated research framework built across **12 technical domains** that serve as the foundation for scalable robotic development.
 
 ---
 
 ## 🧭 **Technical Identity**
 
-### 🔹 **6 Core Domains**
+### 🔹 **6 Core Domains (Primary Focus)**
 - ⚙️ **Mechanics** — structures, kinematics, dynamics  
 - 🧪 **Materials Science** — polymers, composites  
 - 🖥️ **CAD & Digital Design** — SolidWorks, Fusion 360, Onshape  
 - 💻 **Programming** — C/C++, Python, ROS  
 - 🎛️ **Control Systems** — modeling, simulation, embedded control  
-- 🦾 **Soft Robotics** — tendon-driven actuation, elastomers, biomimetic design  
+- 🦾 **Soft Robotics** — tendon-driven systems, elastomers, biomimetic design  
 
-### 🔹 **12 Technical Domains**
-Mechanics • Materials • CAD • Programming • Control • Robotics • Biology • Biomechanics • Chemistry • Aerospace • Textile Engineering • Aerodynamics
+### 🔹 **12 Technical Domains (Full Framework)**
+> The backbone for long-term humanoid robotics research.
+
+Mechanics • Materials • CAD • Programming • Control • Robotics •  
+Biology • Biomechanics • Chemistry • Aerospace • Textile Engineering • Aerodynamics
 
 ---
 
 ## 🤖 **Research Direction — Anthropomorphic Robotics**
 
-Focused on designing a **humanlike robotic arm + hand** featuring:
+I focus on building a **humanlike robotic arm + hand**, with emphasis on:
 
-- 26 DOF human-range functionality  
+- 26-DOF human-range motion  
 - Low-friction tendon + pulley routing  
 - Elastomer-based soft skin (Shore 20–40A)  
 - Hollow lattice bone structures  
-- Forearm-mounted motors to reduce inertia  
+- Forearm-mounted motors (reducing distal inertia)  
 - Modular generational upgrades: **v1 → v2 → v3 (2030)**  
 
 ---
@@ -73,26 +84,32 @@ Focused on designing a **humanlike robotic arm + hand** featuring:
 - Reusable template library  
 
 ### **3️⃣ MIT OCW Technical Notes**
-- Organized notes for Mechanics • Materials • Control • Programming  
-- Research-oriented documentation  
+- Structured notes for Mechanics • Materials • Control • Programming  
+- Optimized for long-term research  
 
 ### **4️⃣ Soft Robotics Experiments**
-- Tendon routing optimization  
+- Tendon routing & friction optimization  
 - Elastomer characterization  
-- Biomimetic joint prototypes  
+- Biomimetic joints  
 
 ---
 
 ## 🗺️ **Learning & Research Roadmap (2026–2028)**
 
 ### **2026**
-MIT OCW foundation • Humanoid Arm v1 • PFIEV–MIT portfolio  
+- MIT OCW foundation  
+- Humanoid Arm v1  
+- PFIEV–MIT engineering portfolio  
 
 ### **2027**
-Advanced MIT courses • Humanoid Arm v2 • FEM + Multibody Dynamics  
+- Advanced MIT courses  
+- Humanoid Arm v2  
+- FEM + Multibody Dynamics  
 
 ### **2028**
-Gen Meca Robotics Architecture • Humanoid Arm v3 • International lab applications  
+- *Gen Meca Robotics Architecture (open-source)*  
+- Humanoid Arm v3  
+- Apply to international labs  
 
 ---
 
@@ -115,19 +132,22 @@ MATLAB/Simulink • Python modeling
 | Repository | Description |
 |-----------|-------------|
 | **MIT-Learning-Path** | MIT-style structured learning roadmap |
-| **Gen-Meca Robotics** | Core documentation and design rules |
+| **Gen-Meca Robotics** | Core documentation and robotic design rules |
 | **Humanoid-Arm-Design** | CAD + tendon-driven architecture |
 
 ---
 
 ## 🎯 **Vision**
 
-> **"To build a modular robotics platform—from materials to control—that can evolve across generations."**
+> **"To build a modular robotics platform—from materials to control—capable of evolving through multiple generations."**
 
 ---
 
 ## 🌐 **Connect**
 
-**Email:** gen.mecaking@gmail.com  
-**GitHub:** https://github.com/genmecaking-499  
-**Portfolio (Notion):** Coming soon  
+- 📧 **Email:** gen.mecaking@gmail.com  
+- 🧑‍💻 **GitHub:** https://github.com/genmecaking-499  
+- 🗂️ **Portfolio (Notion):** Coming soon  
+
+---
+
